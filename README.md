@@ -1,1 +1,1 @@
-This is an app based on Kivy.
+This is an app developed based on Kivy.
